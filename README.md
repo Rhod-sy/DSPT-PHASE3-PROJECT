@@ -48,8 +48,7 @@ These features have a stronger influence on the model's decision-making process 
 2. **Time-Specific Safety Initiatives:** Utilize crash hour and month data to deploy time-specific safety measures, like heightened law enforcement during peak accident hours or months, to reduce severe injuries.
 
 3. **Customized Educational Campaigns:** Tailor educational campaigns based on crash types to specific demographics or communities, empowering residents with knowledge to prevent accidents and minimize injury seve.png)
-
-4. **Model Refinement:** Continuously improve the predictive model by exploring different algorithms, feature techniques, and tuning parameters for better accuracy.
+***
 
 ## Next Steps
 
@@ -58,7 +57,7 @@ These features have a stronger influence on the model's decision-making process 
 2. Validation and Comparison: Validate the model on various datasets and compare its performance with existing standards to ensure reliability.
 
 3. Knowledge Sharing: Encourage collaboration among data scientists, traffic safety experts, and policymakers to share insights and best practices for enhancing road safety initiatives.
-
+***
 
 ## Repository Structure
 
