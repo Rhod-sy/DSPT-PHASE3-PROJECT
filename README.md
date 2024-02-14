@@ -26,11 +26,18 @@ This project has been executed by developing and assessing various classificatio
 ***
 1. Latitude
 2. Longitude
+   
 3. Crash_hour
 ![Crashesperhour](./Charts%20%26%20Images/hour.png)
+
+
 4. Crash_type
+
+   
 5. Crash_month
 ![Crashespermonth](./Charts%20%26%20Images/month.png)
+
+
 
 These features have a stronger influence on the model's decision-making process as compared to the others.
 
