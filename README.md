@@ -29,11 +29,11 @@ This project has been executed by developing and assessing various classificatio
    
 3. Crash_hour
 ![Crashesperhour](./Charts%20%26%20Images/hour.png)
-
+***
 
 4. Crash_type
 
-   
+***  
 5. Crash_month
 ![Crashespermonth](./Charts%20%26%20Images/month.png)
 
