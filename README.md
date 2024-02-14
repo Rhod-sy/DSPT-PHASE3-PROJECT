@@ -36,7 +36,7 @@ This project has been executed by developing and assessing various classificatio
 ***  
 5. Crash_month
 ![Crashespermonth](./Charts%20%26%20Images/month.png)
-
+***
 
 
 These features have a stronger influence on the model's decision-making process as compared to the others.
