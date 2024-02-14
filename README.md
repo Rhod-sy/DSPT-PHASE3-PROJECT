@@ -26,11 +26,11 @@ This project has been executed by developing and assessing various classificatio
 ***
 1. Latitude
 2. Longitude
-3. Crash_
-![Crashesperhour](./Charts%20%26%20Images/hour.png)h4ur
-4. Crash_5ype
-5. Crash
-![Crashespermonth](./Charts%20%26%20Images/month.png)_month
+3. Crash_hour
+![Crashesperhour](./Charts%20%26%20Images/hour.png)
+4. Crash_type
+5. Crash_month
+![Crashespermonth](./Charts%20%26%20Images/month.png)
 
 These features have a stronger influence on the model's decision-making process as compared to the
 *** others.
@@ -42,24 +42,21 @@ These features have a stronger influence on the model's decision-making process 
 
 3. **Customized Educational Campaigns:** Tailor educational campaigns based on crash types to specific demographics or communities, empowering residents with knowledge to prevent accidents and minimize injury seve.png)
 
+4. **Model Refinement:** Continuously improve the predictive model by exploring different algorithms, feature techniques, and tuning parameters for better accuracy.
 
-## What1. Model Refinement: Continuously improve the predictive model by exploring different algorithms, feature techniques, and tuning parameters for better accuracy.
-2. 
-Validation and Comparison: Validate the model on various datasets and compare its performance with existing standards to ensure reliability.3. 
+## Next Steps
 
-Knowledge Sharing: Encourage collaboration among data scientists, traffic safety experts, and policymakers to share insights and best practices for enhancing road safety initiativs.l films 
+1. Model Refinement: Continuously improve the predictive model by exploring different algorithms, feature techniques, and tuning parameters for better accuracy.
 
+2. Validation and Comparison: Validate the model on various datasets and compare its performance with existing standards to ensure reliability.
 
-## For More Information
-
-See the full analysis in the [Project Jupyter Notebook]3./DSC-PHASE1-PRntation.pdf)
+3. Knowledge Sharing: Encourage collaboration among data scientists, traffic safety experts, and policymakers to share insights and best practices for enhancing road safety initiatives.
 
 
 ## Repository Structure
 
 ```
 ├── Chages
-├── Data
-├3─ DSC-PHASE1-Pentation.pdf
+├── DSPT-PHASE3-PROJECT.ipnyb
 └── README.md
 ```
