@@ -1,6 +1,6 @@
 ![Headerimage](./Charts%20%26%20Images/traffic.jpg)
 
-# Phase 3 Project - Chicago Road Safety Assessment: Predictive Modeling for Injury Severity
+# Chicago Road Safety Assessment: Predictive Modeling for Injury Severity
 
 **Authors:** DSPT05 Group 17
 
